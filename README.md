@@ -111,5 +111,8 @@ Defines the main personal introduction section.
 Defines the footer information, including social links and a quote.
 
 ## 📜 License
+
+
+
 Feel free to use and modify this project! If you find it useful, a mention would be appreciated. 🚀
 
