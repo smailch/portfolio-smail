@@ -54,10 +54,10 @@ export const projects: Project[] = [
     summary:
       "Projet académique réalisé dans le cadre du module Intégration Web et UX-Design, encadré par IMEN EL HAKIM à ESPRIT. Esprit Clubs est une plateforme web interactive et moderne dédiée à la gestion et à la communication des clubs étudiants d'ESPRIT, offrant une expérience utilisateur fluide et intuitive pour toute la communauté estudiantine.",
     images: [
-      "/EspritClub/capture1.png",
-      "/EspritClub/capture2.png",
-      "/EspritClub/capture3.png",
-      "/EspritClub/capture4.png",
+      "/EspritClub/Capture1.png",
+      "/EspritClub/Capture2.png",
+      "/EspritClub/Capture3.png",
+      "/EspritClub/Capture4.png",
       "/EspritClub/figma1.png",
       "/EspritClub/figma2.png"
     ],
