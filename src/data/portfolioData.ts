@@ -85,10 +85,6 @@ export const projects: Project[] = [
         "Facilitation de l'intégration des nouveaux étudiants et valorisation des réalisations associatives.",
         "Amélioration de la gestion administrative et suivi personnalisé des activités et événements."
       ]
-    },
-    externalLink: {
-      title: "Présentation Figma",
-      url: "https://www.figma.com/file/xxxxxx/esprit-clubs"
     }
   }
 ];
