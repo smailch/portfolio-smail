@@ -103,7 +103,6 @@ export const projects: Project[] = [
   tags: [
     "Python",
     "FastAPI",
-    "React",
     "Next.js",
     "TypeScript",
     "Tailwind CSS",
