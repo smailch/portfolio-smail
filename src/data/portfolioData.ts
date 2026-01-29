@@ -86,5 +86,46 @@ export const projects: Project[] = [
         "Amélioration de la gestion administrative et suivi personnalisé des activités et événements."
       ]
     }
+  },
+  {
+  id: 3,
+  title: "CyberLink Guardian – AI-Powered URL Security Checker",
+  summary:
+    "Application moderne de cybersécurité permettant d’analyser des URLs en temps réel pour détecter les risques (malicieux, phishing, etc.) via l'intelligence artificielle et l'agrégation de plusieurs bases de threat intelligence.",
+  images: [
+    "/CyberLinkGuardian/Capture d’écran 2026-02.png",
+    "/CyberLinkGuardian/Capture d’écran 2026-03.png",
+    "/CyberLinkGuardian/Capture d’écran 2026-04.png",
+    "/CyberLinkGuardian/Capture d’écran 2026-05.png",
+    "/CyberLinkGuardian/Capture d’écran 2026-06.png",
+    "/CyberLinkGuardian/Capture d’écran 2026-00.png",
+  ],
+  tags: [
+    "Python",
+    "FastAPI",
+    "React",
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS",
+    "AI",
+    "Threat Intelligence",
+    "WCAG Accessibility"
+  ],
+  details: {
+    challenge:
+      "Fournir une solution rapide et accessible pour détecter et expliquer les menaces potentielles liées à toute URL, tout en combinant la puissance de l’IA, l'analyse heuristique et l’agrégation de plusieurs sources de threat intelligence dans une interface moderne conforme aux normes d’accessibilité (WCAG).",
+    solution:
+      "Développement d’un backend Python/FastAPI connecté à VirusTotal, OTX et Google Safe Browsing, avec scoring heuristique, justification décisionnelle et API REST. Création d’un frontend React/Next.js accessible, responsive et explicatif, affichant les scores, analyses détaillées et intégrant badge dynamique Safe/Suspect/Malicious.",
+    impact: [
+      "Analyse multi-source de liens en temps réel, avec score explicite et argumenté.",
+      "Renforce la sécurité utilisateurs et leur capacité à différencier vrai/ faux positifs grâce à la transparence des raisons.",
+      "Design UI accessible (WCAG), adapté aussi bien aux professionnels qu’aux étudiants, compatible desktop/mobile.",
+      "Base solide pour extensions futures : nouvelles sources, interface multi-langues, analyse historique, etc."
+    ]
+  },
+  externalLink: {
+    title: "Voir le projet sur GitHub",
+    url: "https://github.com/smailch/cyberlink-guardian"
   }
+}
 ];
